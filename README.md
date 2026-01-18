@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viik08&label=Profile%20views&color=0e75b6&style=flat" alt="viik08" /> </p>
 
-- 🌱 I’m currently learning **Python • Machine Learning • HTML • CSS • JavaScript**
+- 🌱 I’m currently learning **Python • C • Machine Learning • HTML • CSS • Java**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/viik08)
 
