@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, Java, C, Machine Learning basics**
 
-- 📫 How to reach me **souvikdasqwe@gmail.com**
+- 📫 How to reach me **[linkedin](https://www.linkedin.com/in/souvik---das-/)**
 
 - ⚡ Fun fact **I debug more than I code 😅**
 
